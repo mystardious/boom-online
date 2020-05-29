@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/boom-online/static/css/main.5f361e03.chunk.css",
+    "main.js": "/boom-online/static/js/main.e4c73dc9.chunk.js",
+    "main.js.map": "/boom-online/static/js/main.e4c73dc9.chunk.js.map",
+    "runtime-main.js": "/boom-online/static/js/runtime-main.b1968fb3.js",
+    "runtime-main.js.map": "/boom-online/static/js/runtime-main.b1968fb3.js.map",
+    "static/js/2.430ed831.chunk.js": "/boom-online/static/js/2.430ed831.chunk.js",
+    "static/js/2.430ed831.chunk.js.map": "/boom-online/static/js/2.430ed831.chunk.js.map",
+    "index.html": "/boom-online/index.html",
+    "precache-manifest.34a6ee4c34e1f4fb085375f415556914.js": "/boom-online/precache-manifest.34a6ee4c34e1f4fb085375f415556914.js",
+    "service-worker.js": "/boom-online/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/boom-online/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.430ed831.chunk.js.LICENSE.txt": "/boom-online/static/js/2.430ed831.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/boom-online/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1968fb3.js",
+    "static/js/2.430ed831.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e4c73dc9.chunk.js"
+  ]
+}

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/boom-online/precache-manifest.34a6ee4c34e1f4fb085375f415556914.js"
+  "/boom-online/precache-manifest.30106154ba843668298cd89aea1799f3.js"
 );
 
 self.addEventListener('message', (event) => {
